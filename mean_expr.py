@@ -1,3 +1,7 @@
+"""
+表达谱处理中，多个探针取平均值
+"""
+
 import pandas as pd
 import numpy as np
 
