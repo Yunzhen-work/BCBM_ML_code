@@ -1,6 +1,5 @@
 """
 在R中，两个处理好的表达谱矩阵，两个矩阵之间的基因两两做相关性计算
-
 """
 
 table1=read.table("gene_matrix-1.txt",header=TRUE)
