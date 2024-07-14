@@ -1,7 +1,6 @@
-### ---------------------------------------------------------------------
-# Immune infiltration analysis for different groups by Cibersort
-### ---------------------------------------------------------------------
-
+"""
+Immune infiltration analysis for different groups by Cibersort
+"""
 # remove(list = ls()) # clear
 
 # 加载包
